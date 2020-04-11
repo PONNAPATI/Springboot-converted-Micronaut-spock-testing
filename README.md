@@ -1,1 +1,0 @@
-# Springboot-converted-Micronaut-spock-testing
